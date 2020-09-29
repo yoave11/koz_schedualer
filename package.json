@@ -1,0 +1,22 @@
+{
+  "name": "koz_schedualer",
+  "version": "1.0.0",
+  "description": "scheduel all the yeladim zayn of mashov",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yoave11/koz_schedualer.git"
+  },
+  "keywords": [
+    "yeled_zayn"
+  ],
+  "author": "yoavs",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yoave11/koz_schedualer/issues"
+  },
+  "homepage": "https://github.com/yoave11/koz_schedualer#readme"
+}
